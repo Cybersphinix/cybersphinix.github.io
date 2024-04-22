@@ -26,7 +26,7 @@
         <h2>About Me</h2>
         <div class="buttons">
             <a onclick="toggleParagraph()" class="btn">About</a>
-            <a href="http://cybersphinix.github.io/resume.pdf" target="_blank" class="btn">Resume</a>
+            <a href="https://cybersphinix.github.io/resume.pdf" target="_blank" class="btn">Resume</a>
             <a href="https://www.linkedin.com/in/shristi-thapaliya2003" target="_blank" class="btn">LinkedIn</a>
         </div>
     </section>
