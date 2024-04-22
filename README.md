@@ -12,7 +12,7 @@
 <body>
     <header>
         <h1>Hi, I am Shristi 👋</h1>
-       <img src="/picture/image1.jpg" height="200">
+       <img src="/image1.jpg" height="200">
         <p id="aboutParagraph" style="display: none;">I am a CS student currently studying at the University of Central
             Oklahoma.</p>
     </header>
